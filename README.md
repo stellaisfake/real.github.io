@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+
 <html>
 <head>
     <title>100% real not fake</title>
